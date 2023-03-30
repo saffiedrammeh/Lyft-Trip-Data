@@ -3,7 +3,7 @@ SELECT * FROM trips;
 
 SELECT * FROM riders;
 
-SELECT * FROM cars;*/
+SELECT * FROM cars;
 
 
 
