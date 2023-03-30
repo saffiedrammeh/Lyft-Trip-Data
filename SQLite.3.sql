@@ -1,3 +1,4 @@
+--There are three tables in which I utilized joins, comparison operators, and aggregate operators.
 SELECT * FROM trips;
 
 SELECT * FROM riders;
